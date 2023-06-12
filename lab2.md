@@ -1,0 +1,9 @@
+- Control questions: 
+1. What parameter from your point of view makes more contribution into the final uncertainty of the calculated quantity?
+The parameter that likely contributes the most to the final uncertainty of the calculated quantity is the measurement of time. Any errors or inaccuracies in measuring the time needed for the system to undergo certain motions can affect the accuracy of the calculated acceleration of gravity. 
+2. How can we take into account the mass of the pulley?
+To take into account the mass of the pulley, more accurate equations need to be used. The equations provided in the theory section of the lab description account for the mass of the pulley by considering the rotational inertia of the pulley (I). The tension of the cord on each side of the pulley (T1 and T2) is no longer equal, and the equation for acceleration (equation 2.8) becomes more complex. 
+3. Can we test Newton's second law using this experimental setup?
+Yes, we can test Newton's second law using the Atwood machine. Newton's second law states that the net force acting on an object is equal to the mass of the object multiplied by its acceleration (Fnet = ma). In the Atwood machine, we can measure the difference in weights of the masses and determine the acceleration of the system. By comparing the calculated acceleration with the theoretical value, we can verify the validity of Newton's second law. 
+4. Can you offer an alternative method for the determination of the block's acceleration?
+Yes, an alternative method for determining the block's acceleration could be to use a motion sensor or accelerometer. By attaching the sensor to one of the blocks, we can directly measure its acceleration during the motion. This method eliminates the need for timing the motion and can provide more precise and accurate measurements. Additionally, it can be used to study the acceleration at different points during the motion, providing more detailed data for analysis.
