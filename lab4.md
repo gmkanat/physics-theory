@@ -20,6 +20,7 @@ Answer:
 4. Question: Why is it impossible to find the bullet speed by equalization of the kinetic energy of the bullet to the potential energy of elastic deformation of the thread at the maximal displacement angle of the frame?
 
 Answer: It is impossible to find the bullet speed by equalizing the kinetic energy of the bullet to the potential energy of elastic deformation of the thread at the maximal displacement angle of the frame because the collision between the bullet and the block is not purely elastic. The collision is described as a "sticky" collision, where the bullet and the block stick together and move as a single mass after the collision. In this type of collision, kinetic energy is not conserved, and energy is lost due to the deformation of the bullet and block, as well as other dissipative forces. Therefore, the traditional approach of equating kinetic energy to potential energy cannot be applied accurately in this case.
+
 5. Question: What simplifying conditions were used in the given work?
 
 Answer: The simplifying conditions used in the given work include:
